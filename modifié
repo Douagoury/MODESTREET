@@ -1,0 +1,17 @@
+# 1. Va dans le dossier de ta boutique
+cd /nfs/102008227/outputs/boutique-vetements
+
+# 2. Initialise Git (si ce n'est pas déjà fait)
+git init
+
+# 3. Ajoute tous les fichiers
+git add .
+
+# 4. Crée un commit
+git commit -m "Ajout du site MODESTREET - boutique en ligne"
+
+# 5. Connecte à ton dépôt GitHub
+git remote add origin https://github.com/Douagoury/MODESTREET-.git
+
+# 6. Pousse tout sur la branche main
+git push -u origin main

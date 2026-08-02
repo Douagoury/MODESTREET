@@ -1,3 +1,1 @@
-git add .
-git commit -m "Publication du site MODESTREET"
-git push origin main
+file:///C:/Users/AA/Downloads/MODESTREET-site/index.html
